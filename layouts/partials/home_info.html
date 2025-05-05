@@ -1,0 +1,49 @@
+<style type="text/css">
+.home-avatar {
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.home-avatar img {
+  display: inline-block;
+  width: 8rem;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 100%;
+  box-shadow: 0 0 0 0.3618em rgba(0, 0, 0, 0.05);
+  transition: all 0.4s ease;
+}
+
+.home-avatar img:hover {
+  position: relative;
+  transform: translateY(-0.75rem);
+}
+
+</style>
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <div class="home-avatar">
+            <a href="/posts/" title="Posts">
+                {{ $image := resources.Get "arulselvan.png" }}
+{{ if $image }}
+  <img src="{{ $image.RelPermalink }}" alt="Profile Image">
+{{ else }}
+  <!-- optional fallback -->
+  <p>Image not found</p>
+{{ end }}
+                
+            </a>
+        </div>
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

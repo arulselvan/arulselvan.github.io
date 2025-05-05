@@ -1,0 +1,52 @@
+baseURL = "https://arulselvan.net/"
+languageCode = "en-us"
+title = "Arul Selvan"
+theme = "PaperMod"
+
+[params]
+# Basic customizations
+description = "Software Engineer | Servant Leader"
+author = "Arul Selvan"
+dateFormat = "January 2, 2006"
+disableSummary = false
+enableReadingTime = true
+enableShareButtons = true
+ShowArchive = true
+
+[params.homeInfoParams]
+  Title = "Hi there \U0001F44B"
+  Content = "I am a software engineer and servant leader based in India, with over a decade of experience in the field. Currently, I work full-time at Tata Communications. Although I don’t write often, I find joy in learning through teaching and collaboration."
+  showHomeInfo = true
+  showHomeInfoAvatar = true
+  showHomeInfoName = true
+  showHomeInfoBio = true
+  showHomeInfoSocialIcons = true
+
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/arul-selvan/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/arulselvan"
+
+[params.profileMode]
+subtitle = "This is subtitle"
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
