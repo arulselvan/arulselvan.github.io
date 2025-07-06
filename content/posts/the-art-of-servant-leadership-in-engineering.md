@@ -1,9 +1,9 @@
 ---
-author: arul
+author: Arul Selvan
 category:
   - uncategorized
 date: "2025-04-12T15:30:30+00:00"
-draft: "false"
+draft: "true"
 guid: https://arulselvan.net/?p=780
 title: The Art of Servant Leadership in Engineering
 url: /the-art-of-servant-leadership-in-engineering/
