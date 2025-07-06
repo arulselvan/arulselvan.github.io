@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://arulselvan.net/archives/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://arulselvan.net/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blogging/</loc>
+    <loc>https://arulselvan.net/tags/blogging/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://arulselvan.net/tags/go/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://arulselvan.net/tags/hugo/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://arulselvan.net/tags/</loc>
     <lastmod>2025-04-12T23:19:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://arulselvan.net/posts/</loc>
     <lastmod>2025-04-12T15:30:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-art-of-servant-leadership-in-engineering/</loc>
+    <loc>https://arulselvan.net/the-art-of-servant-leadership-in-engineering/</loc>
     <lastmod>2025-04-12T15:30:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/multi-tenant-approaches-in-software-products/</loc>
+    <loc>https://arulselvan.net/multi-tenant-approaches-in-software-products/</loc>
     <lastmod>2024-09-20T07:02:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talks/kcd-chennai-2023/</loc>
+    <loc>https://arulselvan.net/talks/kcd-chennai-2023/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talks/</loc>
+    <loc>https://arulselvan.net/talks/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/git-branching-strategies/</loc>
+    <loc>https://arulselvan.net/git-branching-strategies/</loc>
     <lastmod>2023-03-06T07:24:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cloud-native-observability-with-opentelemetry-and-opensearch/</loc>
+    <loc>https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/</loc>
     <lastmod>2022-10-26T10:32:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/doubting-is-easy/</loc>
+    <loc>https://arulselvan.net/doubting-is-easy/</loc>
     <lastmod>2022-10-15T18:15:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stop-doubting-gods-potential/</loc>
+    <loc>https://arulselvan.net/stop-doubting-gods-potential/</loc>
     <lastmod>2022-05-27T13:35:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tired/</loc>
+    <loc>https://arulselvan.net/tired/</loc>
     <lastmod>2022-05-26T14:27:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seperation-gives-life%E2%9D%A4%EF%B8%8F/</loc>
+    <loc>https://arulselvan.net/seperation-gives-life%E2%9D%A4%EF%B8%8F/</loc>
     <lastmod>2021-08-12T13:14:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tests-into-testimony/</loc>
+    <loc>https://arulselvan.net/tests-into-testimony/</loc>
     <lastmod>2021-08-03T09:42:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/what-if-god-destroy-us-for-our-mistakes/</loc>
+    <loc>https://arulselvan.net/what-if-god-destroy-us-for-our-mistakes/</loc>
     <lastmod>2021-07-29T11:39:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/christ-centered-marriage/</loc>
+    <loc>https://arulselvan.net/christ-centered-marriage/</loc>
     <lastmod>2021-07-28T10:19:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/waiting-in-gods-presence/</loc>
+    <loc>https://arulselvan.net/waiting-in-gods-presence/</loc>
     <lastmod>2021-07-27T10:26:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/serve-god-not-the-world/</loc>
+    <loc>https://arulselvan.net/serve-god-not-the-world/</loc>
     <lastmod>2021-07-26T06:15:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testing-god-not-trusting-god/</loc>
+    <loc>https://arulselvan.net/testing-god-not-trusting-god/</loc>
     <lastmod>2021-07-23T14:56:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stop-complaining-and-start-accepting/</loc>
+    <loc>https://arulselvan.net/stop-complaining-and-start-accepting/</loc>
     <lastmod>2021-07-22T07:02:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/overcoming-the-pain-of-abortion/</loc>
+    <loc>https://arulselvan.net/overcoming-the-pain-of-abortion/</loc>
     <lastmod>2021-07-21T14:33:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/when-god-listens-to-our-prayer/</loc>
+    <loc>https://arulselvan.net/when-god-listens-to-our-prayer/</loc>
     <lastmod>2021-07-21T08:00:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-wilderness-way/</loc>
+    <loc>https://arulselvan.net/the-wilderness-way/</loc>
     <lastmod>2021-07-20T07:59:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiencing-delays/</loc>
+    <loc>https://arulselvan.net/experiencing-delays/</loc>
     <lastmod>2021-07-19T08:03:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manage-environment-based-configuration-node-jstypescript/</loc>
+    <loc>https://arulselvan.net/manage-environment-based-configuration-node-jstypescript/</loc>
     <lastmod>2017-08-07T07:12:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/atscript-context-angular-2-0/</loc>
+    <loc>https://arulselvan.net/atscript-context-angular-2-0/</loc>
     <lastmod>2014-10-30T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/realtime-dashboard-asp-net-signalr-angularjs-d3js/</loc>
+    <loc>https://arulselvan.net/realtime-dashboard-asp-net-signalr-angularjs-d3js/</loc>
     <lastmod>2014-10-15T08:24:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/object-oriented-programming-basic/</loc>
+    <loc>https://arulselvan.net/object-oriented-programming-basic/</loc>
     <lastmod>2013-12-04T13:14:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://arulselvan.net/categories/</loc>
   </url>
 </urlset>

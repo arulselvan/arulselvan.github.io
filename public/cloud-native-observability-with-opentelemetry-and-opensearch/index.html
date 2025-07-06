@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>Observability Solutions with Open Telemetry &#43; OpenSearch | Arul Selvan</title>
 <meta name="keywords" content="">
 <meta name="description" content="Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.
 What is Observability?
 The act of collecting and analyzing data from applications and infrastructure so that you can  understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance">
 <meta name="author" content="arul">
-<link rel="canonical" href="http://localhost:1313/cloud-native-observability-with-opentelemetry-and-opensearch/">
+<link rel="canonical" href="https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6da9a63d25a9608bca2f7f907a030e887a7dd3c3f3918e4cc113129361414bda.css" integrity="sha256-bammPSWpYIvKL3&#43;QegMOiHp908PzkY5MwRMSk2FBS9o=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://arulselvan.net/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://arulselvan.net/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://arulselvan.net/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://arulselvan.net/apple-touch-icon.png">
+<link rel="mask-icon" href="https://arulselvan.net/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/cloud-native-observability-with-opentelemetry-and-opensearch/">
+<link rel="alternate" hreflang="en" href="https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/">
 <noscript>
     <style>
         #theme-toggle,
@@ -57,7 +57,79 @@ The act of collecting and analyzing data from applications and infrastructure so
         }
 
     </style>
-</noscript>
+</noscript><meta property="og:url" content="https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/">
+  <meta property="og:site_name" content="Arul Selvan">
+  <meta property="og:title" content="Observability Solutions with Open Telemetry &#43; OpenSearch">
+  <meta property="og:description" content="Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.
+What is Observability?
+The act of collecting and analyzing data from applications and infrastructure so that you can understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2022-10-26T10:32:55+00:00">
+    <meta property="article:modified_time" content="2022-10-26T10:32:55+00:00">
+    <meta property="og:image" content="https://arulselvan.net/wp-content/uploads/2022/10/opentelemetryandopensearch.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://arulselvan.net/wp-content/uploads/2022/10/opentelemetryandopensearch.png">
+<meta name="twitter:title" content="Observability Solutions with Open Telemetry &#43; OpenSearch">
+<meta name="twitter:description" content="Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.
+What is Observability?
+The act of collecting and analyzing data from applications and infrastructure so that you can  understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://arulselvan.net/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Observability Solutions with Open Telemetry + OpenSearch",
+      "item": "https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Observability Solutions with Open Telemetry + OpenSearch",
+  "name": "Observability Solutions with Open Telemetry \u002b OpenSearch",
+  "description": "Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.\nWhat is Observability?\nThe act of collecting and analyzing data from applications and infrastructure so that you can understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.\nWhat is Observability?\nThe act of collecting and analyzing data from applications and infrastructure so that you can understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance\nObservability goal? is to troubleshoot the applications, not only that it helps improve the overall end-user experience from many perspectives…\nSolution Architecture: Below is the used self-managed open-source components to build the solutions.\nOpenTelemetry Instrumentations \u0026 Collector: Vendor-agnostic way to receive, process, and export telemetry data. More Detail\nFluentBit: super fast, lightweight, and highly scalable logging and metrics processor and forwarder More Details\nData Prepper: an open-source data collector for observability data (trace, logs, metrics) that can filter, enrich, transform, normalize, and aggregate data for downstream analysis and visualization More Detail\nOpenSearch \u0026 OpenSearch Dashboards: OpenSearch is a community-driven, Apache 2.0-licensed open-source search, that forked and developed from Elasticsearch 7.10 and its analytics suite that makes it easy to ingest, search, visualize, and analyze data. It consists of a data store and search engine (OpenSearch), and a visualization and user interface (OpenSearch Dashboards). More Detail\nPrometheus: open-source systems monitoring and alerting toolkit More Detail\nGrafana: Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored More Detail\nAlright, let’s start with the quick demo, I’ve below simple dummy microservices for this demonstration with different programming languages Nodejs, Go, and C# to showcase the language agnostic. For Metrics tried data-prepper as experimental and not included Prometheus since that is the common standard for metrics.\nSample application flow:\nThese applications will send telemetry data (trace, metrics) information using the Opentelemetry instrumentation to the local OTel collector agent and the log will be written in a regular console and forwarded to Fluentbit. Then these OTel and Fluentbit agents send that information to data-prepper. Data-prepper transforms and stores it in OpenSearch.\nUsually, the monitoring setup for a cloud-native application will be deployed on Kubernetes with service discovery and high availability, but this post is for a quick prototype and setup using a single node from all the components with the docker-compose files.\nobservability/docker-compose.yaml contain all the observability components\ndocker-compose.yaml contains the sample microservices containers.\nLet’s run it.\ndocker-compose -f observability/docker-compose.yaml up -d docker-compose -f docker-compose.yaml up -d That’s it, both application and observability containers are up and running, let me invoke chat initiate API from the browser\nAwesome, we could see the logs, trace, and metrics information in our Open search UI :)\nOkay, today’s challenges and what’s Next?\nLogging : If you see our diagram there will be two agents Fluent and Opentelemetry Collector, the reason is that Opentelemetry Collector still doing development for the Logging signal for many programming languages. Very soon either one will be our agent for all signals(logs, trace, metrics) to collect, and forward from applications.\nAnother problem here, we used 3 programming languages, each using its own structure logging library Nodejs(Winston), .NET (Serilog), and Go (Zap) and all the Log Model is different, even the same we could see in the sample. If we want to achieve we should have a common contract across the programing language. open telemetry Log Model specification has this, once Opentelemetry Logging matures we will have this common structure and fields across the programing language without any additional efforts.\nBelow is the current status of open telemetry instrumentations for the programing language we used, for a complete supported programing language visit here.\nLanguageTracesMetrics****Logs.NETstablestableLogger is stable but the exporter is not stableGostableAlphaNot yet implementedJavascriptstableRelease candidateDevelopment\nMetrics: Data-Prepper and OpenSearch were tried as experimental but If you see the diagram Promotheious will be the solution for metrics, our example doesn’t include the same, Promotehus have many features. I think Metrics are still experimental in data-prepper, but If Open search and data-prepper metrics are stable, I think in most use cases it would be an awesome solution.\nConclusion: There are many tools and platforms available for observability solutions mostly some doing this in their specific area example tracing (Jaeger, Zipkin, etc) and Metrics(Promitious, etc), but one great benefit Open search tries to bring all the signals to one backend for better correlation and monitoring and fully open source solution.\nSource Code GitHub URL: https://github.com/arulselvan/wizchat/tree/practice-observability\n",
+  "wordCount" : "741",
+  "inLanguage": "en",
+  "image":"https://arulselvan.net/wp-content/uploads/2022/10/opentelemetryandopensearch.png","datePublished": "2022-10-26T10:32:55Z",
+  "dateModified": "2022-10-26T10:32:55Z",
+  "author":{
+    "@type": "Person",
+    "name": "arul"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arulselvan.net/cloud-native-observability-with-opentelemetry-and-opensearch/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Arul Selvan",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://arulselvan.net/favicon.ico"
+    }
+  }
+}
+</script>
 </head>
 
 <body class="" id="top">
@@ -75,7 +147,7 @@ The act of collecting and analyzing data from applications and infrastructure so
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Arul Selvan (Alt + H)">Arul Selvan</a>
+            <a href="https://arulselvan.net/" accesskey="h" title="Arul Selvan (Alt + H)">Arul Selvan</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -101,12 +173,12 @@ The act of collecting and analyzing data from applications and infrastructure so
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/archives/" title="Archive">
+                <a href="https://arulselvan.net/archives/" title="Archive">
                     <span>Archive</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/talks/" title="Talks">
+                <a href="https://arulselvan.net/talks/" title="Talks">
                     <span>Talks</span>
                 </a>
             </li>
@@ -126,7 +198,7 @@ The act of collecting and analyzing data from applications and infrastructure so
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" src="http://localhost:1313/wp-content/uploads/2022/10/opentelemetryandopensearch.png" alt="opentelemetryandopensearch">
+        <img loading="eager" src="https://arulselvan.net/wp-content/uploads/2022/10/opentelemetryandopensearch.png" alt="opentelemetryandopensearch">
         
 </figure>
   <div class="post-content"><p>Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.</p>
@@ -175,7 +247,7 @@ docker-compose -f docker-compose.yaml up -d
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">Arul Selvan</a></span> · 
+        <span>&copy; 2025 <a href="https://arulselvan.net/">Arul Selvan</a></span> · 
 
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
