@@ -1,0 +1,9 @@
+.talks-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .talk-item iframe {
+    max-width: 100%;
+  }

@@ -4,16 +4,221 @@
     <title>Posts on Arul Selvan</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Arul Selvan</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 23:19:12 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 15:30:30 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/first-page/</link>
-      <pubDate>Sat, 12 Apr 2025 23:19:12 +0530</pubDate>
-      <guid>http://localhost:1313/first-page/</guid>
-      <description>&lt;h3 id=&#34;test-page&#34;&gt;TEst Page&lt;/h3&gt;</description>
+      <title>The Art of Servant Leadership in Engineering</title>
+      <link>http://localhost:1313/the-art-of-servant-leadership-in-engineering/</link>
+      <pubDate>Sat, 12 Apr 2025 15:30:30 +0000</pubDate>
+      <guid>http://localhost:1313/the-art-of-servant-leadership-in-engineering/</guid>
+      <description>&lt;p&gt;Leadership styles are dependent on the situation; different styles work for different situations. Let&amp;rsquo;s explore in this article how servant leadership will help to build your software development team.&lt;/p&gt;
+&lt;p&gt;Before that, what is the servant leadership approach?&lt;/p&gt;
+&lt;p&gt;It prioritizes serving, empowering, and supporting others to achieve their full potential and foster growth in the team/community/organization. And the concept was coined by &lt;strong&gt;Robert K. Greenleaf&lt;/strong&gt; in his 1970 essay,&amp;ldquo;The Servant as Leader.&amp;rdquo; We can see his view in the below video&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=afOByZ8JlrE&#34;&gt;https://www.youtube.com/watch?v=afOByZ8JlrE&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-Tenant Approaches In Software Products</title>
+      <link>http://localhost:1313/multi-tenant-approaches-in-software-products/</link>
+      <pubDate>Fri, 20 Sep 2024 07:02:00 +0000</pubDate>
+      <guid>http://localhost:1313/multi-tenant-approaches-in-software-products/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What is multi-tenancy?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups. or common infrastructure shared across multiple, distinct user groups. Software-as-a-service (SaaS) offerings are an example of multi-tenant architecture&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/2023/11/multi-tenancy.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Approaches to Implement Multi-Tenancy&lt;/strong&gt; &lt;strong&gt;Capability&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are below two types of approaches or a combination of both, used in the Multi-Tenancy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Application Level&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure Level&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;application-level&#34;&gt;Application Level:&lt;/h5&gt;
+&lt;p&gt;In this model, a single instance of the application serves requests from multiple tenants. The application code is responsible for keeping each tenant&amp;rsquo;s data separate and making sure other tenants can&amp;rsquo;t see any data or activity that does not belong to them&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Git &amp; Branching Strategies</title>
+      <link>http://localhost:1313/git-branching-strategies/</link>
+      <pubDate>Mon, 06 Mar 2023 07:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/git-branching-strategies/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What is Git?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Git is a free and open-source distributed version control system just like any other version control system gives the developer power to track, manage, and organize their code. it&amp;rsquo;s very popular among the developer community because of its lightweight and branching capability. Unlike centralized version control systems, Git branches are cheap and easy to merge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Branching Strategy?&lt;/strong&gt;&lt;br&gt;
+A branching strategy is a strategy that software development teams adopt when writing, merging, and deploying code when using a version control system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Observability Solutions with Open Telemetry &#43; OpenSearch</title>
+      <link>http://localhost:1313/cloud-native-observability-with-opentelemetry-and-opensearch/</link>
+      <pubDate>Wed, 26 Oct 2022 10:32:55 +0000</pubDate>
+      <guid>http://localhost:1313/cloud-native-observability-with-opentelemetry-and-opensearch/</guid>
+      <description>&lt;p&gt;Observability is an essential and unavoidable piece part of distributed application architectures, there are many tools for observability, and in this post, we going to describe using OpenTelemetry and OpenSearch along with some dependent open-source tools to build the solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Observability?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The act of collecting and analyzing data from applications and infrastructure so that you can  understand their internal states and be alerted to, troubleshoot, and resolve issues with application availability and performance&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doubting is easy</title>
+      <link>http://localhost:1313/doubting-is-easy/</link>
+      <pubDate>Sat, 15 Oct 2022 18:15:37 +0000</pubDate>
+      <guid>http://localhost:1313/doubting-is-easy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;“When doubts filled my mind, your comfort gave me renewed hope and cheer.” Psalm 94:19 NLT&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yeah! It&amp;rsquo;s easy to say that never doubt the strength and power of God. Here in scripture, it says like “When doubts filled my mind, your comfort gave me renewed hope and cheer.” Psalm 94:19 NLT.&lt;/p&gt;
+&lt;p&gt;When we are in a situation where every door is closed, when our prayers are unanswered, when everyone puts pressure on us, when we are in the area of lagging; our human mind will forget God&amp;rsquo;s promises and start doubting God&amp;rsquo;s promises and we will lose hope and happiness. But we are worshipping the God, who always comforts us with His peace that the world cannot give. He is able to turn around every hardest situation in our lives. Nothing is too hard for&lt;br&gt;
+our God. He won&amp;rsquo;t leave us midway, He will lead us till the end. Though we are in a situation that couldn&amp;rsquo;t be changed for a long period of time, we will believe that God will perfectly do it in His right time and we will wait patiently with renewed hope and cheer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stop Doubting God&#39;s potential</title>
+      <link>http://localhost:1313/stop-doubting-gods-potential/</link>
+      <pubDate>Fri, 27 May 2022 13:35:27 +0000</pubDate>
+      <guid>http://localhost:1313/stop-doubting-gods-potential/</guid>
+      <description>&lt;p&gt;Are you doubting God when everything runs against you??&lt;/p&gt;
+&lt;p&gt;Many times in our lives, we are in a situation where everything will be against our decisions and God&amp;rsquo;s promises. In James chapter 1:5, it&amp;rsquo;s written that &amp;ldquo;If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.&amp;rdquo; If we lack in anything, we can ask God according to His will and it is given to him and He is ready to fulfill all our heart desires. In James 1:6 it says that &amp;ldquo;But let him ask in faith, with no doubting&amp;rdquo;. Here God really expects us to have faith in Him and not to doubt His power when situations were against us. When the situations are against our expectations, when we get an abnormal medical report, when we are met with a money shortage, when stumbling things happen in our family and in jobs; God expects us to believe His mightiness and He is potential to turn around our situation. Here it clearly says in the same verse that &amp;ldquo;for he who doubts is like a wave of the sea driven and tossed by the wind&amp;rdquo;. 7.&amp;ldquo;For let not that man suppose that he will receive anything from the Lord.&amp;ldquo;If we doubt God&amp;rsquo;s power according to our situation, we could not receive anything from Him.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tired??</title>
+      <link>http://localhost:1313/tired/</link>
+      <pubDate>Thu, 26 May 2022 14:27:02 +0000</pubDate>
+      <guid>http://localhost:1313/tired/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seperation gives Life❤️</title>
+      <link>http://localhost:1313/seperation-gives-life%E2%9D%A4%EF%B8%8F/</link>
+      <pubDate>Thu, 12 Aug 2021 13:14:45 +0000</pubDate>
+      <guid>http://localhost:1313/seperation-gives-life%E2%9D%A4%EF%B8%8F/</guid>
+      <description>&lt;p&gt;Don&amp;rsquo;t wonder about why i cant follow the world principles, seperated from your family, lost your favorite person ❌ when God chosen you among people. Its written in Leviticus 20:24 &amp;ldquo;I am the Lord your God, who has seperated you from the peoples.&amp;rdquo; Its always good, if God seperates you from your favorite choices. He is holding your hands in the period of seperation. In Genesis 12:1, God said to Abraham, to get out of his country, leave his family and his father&amp;rsquo;s house and He direct Abraham to a land that God shows him for a greater purpose.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tests into Testimony</title>
+      <link>http://localhost:1313/tests-into-testimony/</link>
+      <pubDate>Tue, 03 Aug 2021 09:42:37 +0000</pubDate>
+      <guid>http://localhost:1313/tests-into-testimony/</guid>
+      <description>&lt;p&gt;Our God is a God who can do greatest things, more than we imagine. His plans can&amp;rsquo;t be stopped with anyone&amp;rsquo;s disability. He promised in &lt;em&gt;&lt;strong&gt;Exodus 34:10 &amp;ldquo;The people you live among will see how awesome is the work that I, the Lord, will do for you.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; Hold on to His promise. One who is promised will never leave you until its fulfilled.&lt;/p&gt;
+&lt;p&gt;Whatever the situation it may stressing you, stopping to focus your goals, He is there to do awesome things for you. He is able to turn around any situation before you, where human hands can&amp;rsquo;t do so. He always do good things for those who trust Him. His power is stronger more than we think. He will do great wonders among people, which would be the unbelievable thing for the world, that glorifies His name. So we always trust Him, in all our pressures, just we beleive that He is there with us, that He can do great things in our life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What if God destroy us for our mistakes?</title>
+      <link>http://localhost:1313/what-if-god-destroy-us-for-our-mistakes/</link>
+      <pubDate>Thu, 29 Jul 2021 11:39:26 +0000</pubDate>
+      <guid>http://localhost:1313/what-if-god-destroy-us-for-our-mistakes/</guid>
+      <description>&lt;p&gt;As we are living in the dangerous world, where filled with sins and evils. We are in the world where we are forced to do sins, without our willing. Even if we follow Christ, we don&amp;rsquo;t have strength to overcome sins and worldly thoughts.&lt;/p&gt;
+&lt;p&gt;What will we do if God destroy us for our mistakes? Here its written in &lt;em&gt;&lt;strong&gt;Exodus 32:14 &amp;quot; So the Lord relented from the harm which He said He would do to His people.&amp;quot;&lt;/strong&gt;&lt;/em&gt; Here God decides to destroy the people of Israelite for making a golden calf and they accepted it as their Lord and believed that it has brought them from Egypt. Many times in our lives, even after committing unforgivable sins before Lord, which makes God to think to destroy us. But we are alive, still living in this world, with all blessings from God. Its all because of Christ who died for us at cross, who always plead before the Father God for our mistakes and sins. Its because of Christ we all are living a peaceful life in this world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Christ Centered Marriage</title>
+      <link>http://localhost:1313/christ-centered-marriage/</link>
+      <pubDate>Wed, 28 Jul 2021 10:19:20 +0000</pubDate>
+      <guid>http://localhost:1313/christ-centered-marriage/</guid>
+      <description>&lt;p&gt;Love, the word itself more sweet than any other sweetner in the world. In Bible its written in &lt;em&gt;&lt;strong&gt;1 Corinthians 13:4-8 &amp;ldquo;Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud, doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil; doesn’t rejoice in unrighteousness, but rejoices with the truth; bears all things, believes all things, hopes all things, endures all things. Love never fails.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; Its an amazing thing to show love towards one another. In this modern era, where the world is filled with love, many people undergoes divorce for various reasons is such a heart breaking thing, that we can&amp;rsquo;t accept it. Many marriages failed due to hatred, misunderstanding and when the expectations are not fulfilled and due to various reasons. I thought like how relationship ends if there is love inside them. When we think of Christ&amp;rsquo;s love on us, it always ends in sacrifices, even when we are not faithful. If we bring the laws of Christ love inside our marriage, it long lasts. Husband and wife, who are praying towards Jesus, their love relationship will be tastier. Even if they fight, it always ends in sacrifice. Divorce is a plan of satan to steal the glory of God in marriage.Before ending up the relationship in divorce, think of God&amp;rsquo;s purpose in marriage and drop down the plan and come back in reunion. Husband should ask for God&amp;rsquo;s help to lead his family and love his wife. Wife should respect her husband and obey to his husband&amp;rsquo;s words. This always will please the Lord and He will be glorified. Both Husband and wife should have Christ as centered and if any other relations in their center, it always ends up in struggles and wars. Let the Prince of Peace, direct every families with happiness, joy and peace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waiting in God&#39;s Presence</title>
+      <link>http://localhost:1313/waiting-in-gods-presence/</link>
+      <pubDate>Tue, 27 Jul 2021 10:26:55 +0000</pubDate>
+      <guid>http://localhost:1313/waiting-in-gods-presence/</guid>
+      <description>&lt;p&gt;Sometimes God let us to wait. Here in Exodus 23:15,16 its written as &lt;em&gt;&lt;strong&gt;&amp;ldquo;15.Then Moses went up into the mountain, and a cloud covered the mountain.&amp;rdquo; &amp;ldquo;16. Now the glory of the Lord rested on Mount Sinai, and the cloud covered it six days. And on the seventh day He called to Moses out of the midst of the cloud.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; Here God called Moses to the top of the mount Sinai, and there He made Moses to wait in His presence for six days. On the seventh day, God called to Moses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serve God not the World</title>
+      <link>http://localhost:1313/serve-god-not-the-world/</link>
+      <pubDate>Mon, 26 Jul 2021 06:15:30 +0000</pubDate>
+      <guid>http://localhost:1313/serve-god-not-the-world/</guid>
+      <description>&lt;p&gt;God is more concern about His people; In &lt;em&gt;&lt;strong&gt;Exodus 23:23-27&lt;/strong&gt;&lt;/em&gt; its written like, He didn&amp;rsquo;t want His inheritance to serve the strange god, while He lead the people of Isrealite in the ways of the Amorites, the Hittites, the Perizzites, the Cannonites, the Hivites and the Jebusites. He knew already that these people are not having steadfast mind, to stand firm in their Lord, who brought them out from Egypt. Also in &lt;em&gt;&lt;strong&gt;Exodus 23:33&lt;/strong&gt;&lt;/em&gt;, God warns the people of Israelite like if you serve their gods, it will surely be a snare to you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing God = Not Trusting God</title>
+      <link>http://localhost:1313/testing-god-not-trusting-god/</link>
+      <pubDate>Fri, 23 Jul 2021 14:56:40 +0000</pubDate>
+      <guid>http://localhost:1313/testing-god-not-trusting-god/</guid>
+      <description>&lt;p&gt;Are you trusting God or testing God in any of the difficult situation? Here the people of Israelite in &lt;em&gt;&lt;strong&gt;Exodus 17:7, And he called the place Massah and Merribah because the Israelite quarreled and because they tested the Lord saying, &amp;ldquo;Is the Lord among us or not?&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; They got disbelief on God, when they didn&amp;rsquo;t get water to drink, where they camped in Rephidim. They again start complaining against Moses, they feared of dying because of thirst and forgot how God brought them from Egypt and how He sufficiently provided food to eat. They started murmuring that the Lord is among us or not? Here its clearly written like &lt;em&gt;&lt;strong&gt;&amp;ldquo;Testing the Lord is like God is with us or not&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;. They would have seek  the Lord instead of murmuring. This shows their disbelief on God.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stop Complaining and Start Accepting</title>
+      <link>http://localhost:1313/stop-complaining-and-start-accepting/</link>
+      <pubDate>Thu, 22 Jul 2021 07:02:19 +0000</pubDate>
+      <guid>http://localhost:1313/stop-complaining-and-start-accepting/</guid>
+      <description>&lt;p&gt;In our lives, when we would actually complaint?&lt;/p&gt;
+&lt;p&gt;When we didn&amp;rsquo;t receive, according to our expectations;When we get some defective things; When we lost something; When we are controlled by others ; some kind of unbearable situation that we hate, we start to complaint.&lt;/p&gt;
+&lt;p&gt;Here in Bible, its written in &lt;em&gt;&lt;strong&gt;Exodus 16:7,&amp;quot; For He hears your complaints against the Lord, But what are we, that you complaint against us?&lt;/strong&gt;&lt;/em&gt; Most of the times, we are blaming others for our own mistakes. Here the people of Isrealites started complaining against Moses, that we are not getting anything to eat. They are not in the mind to remember, how God brought them from Egypt and they are not in the mind to accept, that the Lord is able to provide sufficiently. They were fearing that they would die in the wilderness and start murmuring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overcoming the pain of Abortion due to miscarriage</title>
+      <link>http://localhost:1313/overcoming-the-pain-of-abortion/</link>
+      <pubDate>Wed, 21 Jul 2021 14:33:18 +0000</pubDate>
+      <guid>http://localhost:1313/overcoming-the-pain-of-abortion/</guid>
+      <description>&lt;p&gt;Its not an easy pain to plan for abortion due to miscarriage, when actually conceived after years. Its more than the pain of labor. The pain may not be physically severe, but its of mentally. Its actually the end card to our happiness; fullstop to our dreams; the sign of closed doors from God. Undergoing the pain of abortion due to miscarriage, whoever the couples waiting for pregnancy to happen for years,its the heartbreaking moment in their lives. Some says it may be because of curses; some says its because of grace of not delivering the abnormality kids and rest others say what of bad things has been removed; and there is a strong possibility to conceive soon. Amongst all the worldly talks, its such a bigger thing for a couple to stand up after all wounds in their heart. Its one of the hardest situation, only ever God has to heal their wounds. It&amp;rsquo;s written in &lt;strong&gt;&lt;em&gt;Exodus 23:26,&amp;quot;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;No one shall suffer miscarriage or be barren in your land&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;.&amp;quot;&lt;/em&gt;&lt;/strong&gt; Its also written in &lt;strong&gt;&lt;em&gt;John 16:33,&amp;quot;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;In the world you will have tribulation; but be of good cheer, I have overcome the world.&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&amp;quot;&lt;/em&gt;&lt;/strong&gt; Its a great challenges for every couple, who were facing like this kind of situation in their lives; One who called will never leave you empty. Also I encourage you to hold on to the verse and God&amp;rsquo;s promises in your lives. Yes, its true the world will blame for every lagging in our lives; but the same world will appreciate, when God lifts us.So be encouraged, seek God and ask His guidance to lead us and ask God to give strength to overcome this kind of challenges. May God bless you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When God listens to our Prayer??</title>
+      <link>http://localhost:1313/when-god-listens-to-our-prayer/</link>
+      <pubDate>Wed, 21 Jul 2021 08:00:52 +0000</pubDate>
+      <guid>http://localhost:1313/when-god-listens-to-our-prayer/</guid>
+      <description>&lt;p&gt;Are you worried about why my prayers are not answered? Here is the answer in Bible that why God stopped listening to my prayers. If we read in &lt;em&gt;&lt;strong&gt;Psalms 66:18&lt;/strong&gt;&lt;/em&gt;,its written that &amp;quot; &lt;em&gt;&lt;strong&gt;If i regard iniquity in my heart, The Lord will not hear.&amp;quot;&lt;/strong&gt;&lt;/em&gt; Also in &lt;em&gt;&lt;strong&gt;Isiah 52:2,&lt;/strong&gt; &amp;quot; &lt;strong&gt;But your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.&amp;quot;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Wilderness Way</title>
+      <link>http://localhost:1313/the-wilderness-way/</link>
+      <pubDate>Tue, 20 Jul 2021 07:59:33 +0000</pubDate>
+      <guid>http://localhost:1313/the-wilderness-way/</guid>
+      <description>&lt;p&gt;20/07/2021&lt;/p&gt;
+&lt;p&gt;Wilderness is always compared to dryness. No one likes to be in dry area or desert for a long course of time. Its the place where we cannot settle. Its always the shaking of our comfort zone. Its the place of thirst and wandering; also the place of fear, confusions, threatening dark roads; also the place where we cannot get any helps.&lt;/p&gt;
+&lt;p&gt;But in Exodus, God allowed the people of Israelites, the way of wilderness. Its written in Exodus 13:17,18 &lt;em&gt;&lt;strong&gt;&amp;ldquo;17. Then it come to pass, when Pharaoh had led the people go, that God didn&amp;rsquo;t lead them by the way of the land of the Philistines, although that was near for God said,&amp;ldquo;Lest perhaps the people around change their minds when they see war, and return to Egypt.&amp;rdquo; &amp;ldquo;18. So God led the people around by the way of the wilderness of the Red sea&amp;rdquo;.&lt;/strong&gt;&lt;/em&gt; So its easy for God to lead them in easiest way and also in the way which is nearer, but God redirected them in the way of Red sea, which means the great giant before them.While I reading this verse, I thought that whether God is good or doing the villain role in the life of Isrealites. Many times in our lives, we would think, why such a kind of happenings that we would never imagine? But its clearly mentioned in above verse, that inorder to save the people of Isrealites from backslidings, he allowed the way of wilderness; though going through the way of land of Philistines is nearer and easy too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiencing Delays???</title>
+      <link>http://localhost:1313/experiencing-delays/</link>
+      <pubDate>Mon, 19 Jul 2021 08:03:04 +0000</pubDate>
+      <guid>http://localhost:1313/experiencing-delays/</guid>
+      <description>&lt;p&gt;19/07/2021&lt;/p&gt;
+&lt;p&gt;Are you wondering about why God makes us to wait in some circumstances? We are living in the busy running world, we get everything instantly in hands, everything around us are easily reachable to any corner of the world. As we practiced living in the instant world, we are not in the mindset to accept delays in life. But God sometimes allows delays in life, its clearly well said in scripture 2 Peter 3:9 ‘’The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance’’.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How do manage environment based configuration node js/typescript</title>
+      <link>http://localhost:1313/manage-environment-based-configuration-node-jstypescript/</link>
+      <pubDate>Mon, 07 Aug 2017 07:12:35 +0000</pubDate>
+      <guid>http://localhost:1313/manage-environment-based-configuration-node-jstypescript/</guid>
+      <description>&lt;p&gt;Any application needs configuration settings, the programming language like ASP.NET we typically use Web.config for configuration, for different environment we have separate files like&lt;/p&gt;
+&lt;p&gt;Web.Dev.Config,
+Web.QA.Config,
+Web.Staging.Config,
+Web.Production.Config, etc.&lt;/p&gt;
+&lt;p&gt;In nodejs app I could not find any specific standard for this but there is a multiple option to setup this configurations, below I used .json file for different environment.&lt;/p&gt;
+&lt;p&gt;Folder Structure.
+&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2017/07/Screen-Shot-2017-07-10-at-3.09.52-PM.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/07/Screen-Shot-2017-07-10-at-3.09.52-PM-300x295.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;default.json - this will hold all the base configuration and common to all the environment
+Sample:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AtScript in the context of an Angular 2.0</title>
+      <link>http://localhost:1313/atscript-context-angular-2-0/</link>
+      <pubDate>Thu, 30 Oct 2014 10:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/atscript-context-angular-2-0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What is AtScript ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google revealed AtScript at ngEurope in Pari. This is a superset of Microsoft TypeScript , ES6 and ES5. TypeScript adds types to JavaScript code and AtScript extends this idea further by adding annotations and introspection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2014/10/AtScript.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/2014/10/AtScript-300x167.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google team  writing Angular v2 on top of the AtScript syntax&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is it new language?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No, Its not a new language just influenced by TypeScript and Dart. Like how typescript is superset of javascript. Atscript also using similar kind of syntax but it&amp;rsquo;s a enhancement with what is lacking in previous. so it&amp;rsquo;s called superset for rest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RealTime Dashboard with ASP.NET Signalr, AngularJS and D3JS</title>
+      <link>http://localhost:1313/realtime-dashboard-asp-net-signalr-angularjs-d3js/</link>
+      <pubDate>Wed, 15 Oct 2014 08:24:51 +0000</pubDate>
+      <guid>http://localhost:1313/realtime-dashboard-asp-net-signalr-angularjs-d3js/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;About Signalr :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Asp.NET SignalR is a library for ASP.NET developers to push the content from server to connected clients and vise versa.&lt;/p&gt;
+&lt;p&gt;Reference Link: &lt;a href=&#34;http://signalr.net/&#34; title=&#34;SignalR&#34;&gt;http://signalr.net/&lt;/a&gt; ,  &lt;a href=&#34;http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/introduction-to-signalr&#34; title=&#34;SignalR Introduction&#34;&gt;http://www.asp.net/signalr&lt;/a&gt;/&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About AngularJS :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AngularJS is an opensource web application client side framework, maintained by Google and community.&lt;/p&gt;
+&lt;p&gt;Reference Link: &lt;a href=&#34;https://angularjs.org/&#34; title=&#34;AngularJS&#34;&gt;https://angularjs.org/&lt;/a&gt; &lt;strong&gt;About D3js :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;D3.js is a javascript library for manipulating document based on data. It helps in bringing data to visualization using HTML,SVG and CSS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Object-Oriented Programming Basic</title>
+      <link>http://localhost:1313/object-oriented-programming-basic/</link>
+      <pubDate>Wed, 04 Dec 2013 13:14:53 +0000</pubDate>
+      <guid>http://localhost:1313/object-oriented-programming-basic/</guid>
+      <description>&lt;p&gt;This article is for people who want to learn the basics before entering into programming life or who want to learn the foundation for programming. Any language can be chosen only if you are strong in the concept before writing your code and automatically your code will be more powerful and reusable. Below are the examples which I  used for C# Language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Oops?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oops is a paradigm that is used while designing applications and computer programs. C# also provides full support for, Oops.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

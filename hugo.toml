@@ -22,6 +22,11 @@ ShowArchive = true
   showHomeInfoBio = true
   showHomeInfoSocialIcons = true
 
+[params.assets]
+  # Custom CSS
+  customCSS = ["css/custom.css"]
+
+
 
 [[params.socialIcons]]
 name = "linkedin"
@@ -41,9 +46,9 @@ url = "/archives/"
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
+identifier = "Talks"
+name = "Talks"
+url = "/talks/"
 weight = 20
 
 
