@@ -17,6 +17,9 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Clean public folder
+        run: rm -rf public
+
       - name: Build
         run: hugo --minify
 
